@@ -35,8 +35,7 @@ _Cursiva_
 ## BLOCKQUOTES
 > java *.java
 
-**OTROS COMANDOS**
-> java Main
+## Fenced code blocks
 
 ```bash
 java *.java
