@@ -29,5 +29,5 @@ _Cursiva_
      * ItemDa
      * ItemDb
 
-## Links
-http://github.com
+## Linka
+[Pagina principal de GIT] (http://github.com)
