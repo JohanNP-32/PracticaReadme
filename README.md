@@ -30,5 +30,4 @@ _Cursiva_
      * ItemDb
 
 ## Links
-http://github.com
-[Pagina principal de GIT] (http://github.com)
+[Pagina principal de GIT](http://github.com)
